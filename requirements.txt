@@ -3,3 +3,5 @@ pandas
 streamlit
 setuptools>=58.0.0
 wheel
+scikit-learn
+
